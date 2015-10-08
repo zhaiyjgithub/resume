@@ -50,7 +50,7 @@
  * 优秀的自学能力以及独立开发能力
  * 良好的分析解决问题能力以及沟通合作精神
  * 良好的C/C++/Object-C基础，熟悉swift开发以及UI组件开发
- * 熟练掌握iOS开发的各种基础，网络，储存等基础技术开发与应用以及第三方库，AFNetworking，SQLite，SDWebImage等等
+ * 熟练掌握iOS开发的各种基础，网络，储存，多线程等基础技术开发与应用以及第三方库，AFNetworking，SQLite，SDWebImage等等
  * 理解使用IM，支付，百度地图第三方SDK等等
  * git版本管理工具
  * 良好的英文文档阅读能力
