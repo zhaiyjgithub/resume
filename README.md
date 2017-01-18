@@ -61,8 +61,9 @@ App Store 地址：[滴滴咖啡](https://itunes.apple.com/cn/app/di-di-ka-fei/i
  * 优秀的自学能力以及独立开发能力
  * 良好的分析解决问题能力以及沟通合作精神
  * 良好的C/C++/Object-C基础，了解swift。
- * 熟练掌握iOS各种基础组件开发，熟悉网络，储存，多线程，动画等基础技术开发与应用以及第三方库应用，AFNetworking，SQLite，SDWebImage等等
+ * 熟练掌握iOS各种基础组件开发，熟悉网络，储存，多线程，动画、蓝牙等基础技术开发与应用以及第三方库应用，AFNetworking，SQLite，SDWebImage等等
  * 理解使用IM，支付（微信、支付宝、Apple Pay），地图（百度地图、高德地图），社交分享第三方SDK等等
+ * 完整的iPhone应用开发和App Store上线流程
  * git版本管理工具
  * 良好的英文文档阅读能力
  * 了解HTML／javascript／CSS，玩过一段时间的**React**前端框架，了解前端组件化开发。最近学习PHP与MySQL后台开发，**走一趟 PHP + MySQL + Laravel + Vue**。
